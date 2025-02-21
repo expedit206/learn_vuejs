@@ -46,9 +46,3 @@ onMounted(()=>{
 </script>
 
 
-git init
-git add .
-git commit -m "learn vuejs jrs3"
-git branch -M main
-git remote add origin https://github.com/expedit206/learn_vuejs.git
-git push -u origin main
