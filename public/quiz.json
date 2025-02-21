@@ -1,0 +1,49 @@
+{
+    "title": "Questionnaire sur les Films et Séries",
+    "minimum_score": 4,
+    "success_message": "Félicitations! Vous êtes un véritable cinéphile!",
+    "failure_message": "Dommage! Vous devriez regarder plus de films et séries.",
+    "questions": [
+   
+      {
+        "question": "Dans quel film trouve-t-on le personnage de Forrest Gump?",
+        "choices": [
+          "Forrest Gump",
+          "The Shawshank Redemption",
+          "Pulp Fiction",
+          "The Godfather"
+        ],
+        "correct_answer": "Forrest Gump"
+      },
+      {
+        "question": "Quel film est basé sur un livre de J.K. Rowling?",
+        "choices": [
+          "Harry Potter",
+          "The Chronicles of Narnia",
+          "Percy Jackson",
+          "The Hobbit"
+        ],
+        "correct_answer": "Harry Potter"
+      },
+      {
+        "question": "Quelle série suit les aventures d'un groupe d'amis à New York?",
+        "choices": [
+          "Friends",
+          "How I Met Your Mother",
+          "The Office",
+          "Parks and Recreation"
+        ],
+        "correct_answer": "Friends"
+      },
+      {
+        "question": "Quel film d'animation met en scène des jouets qui prennent vie?",
+        "choices": [
+          "Toy Story",
+          "Shrek",
+          "Finding Nemo",
+          "The Lion King"
+        ],
+        "correct_answer": "Toy Story"
+      }
+    ]
+  }
